@@ -3,16 +3,13 @@
   "main": "./lib/atom-inline-blame",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "atom-inline-blame:toggle"
-  },
+  "keywords": [],
   "repository": "https://github.com/atom/atom-inline-blame",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "date-fns": ">=1.29.0"
   }
 }
