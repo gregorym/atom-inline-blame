@@ -2,9 +2,9 @@
   "name": "atom-inline-blame",
   "main": "./lib/atom-inline-blame",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "Inline Git Blame",
   "keywords": [],
-  "repository": "https://github.com/atom/atom-inline-blame",
+  "repository": "https://github.com/gregorym/atom-inline-blame",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
