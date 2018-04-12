@@ -1,7 +1,7 @@
 {
   "name": "atom-inline-blame",
   "main": "./lib/atom-inline-blame",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/atom/atom-inline-blame",
