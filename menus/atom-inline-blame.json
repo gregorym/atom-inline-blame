@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-inline-blame",
-        "command": "atom-inline-blame:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
@@ -15,7 +7,7 @@
           "label": "atom-inline-blame",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Toggle inline blame",
               "command": "atom-inline-blame:toggle"
             }
           ]
