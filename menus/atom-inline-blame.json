@@ -4,10 +4,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-inline-blame",
+          "label": "Atom Inline Blame",
           "submenu": [
             {
-              "label": "Toggle inline blame",
+              "label": "Toggle Inline Blame",
               "command": "atom-inline-blame:toggle"
             }
           ]
